@@ -1,0 +1,22 @@
+.owl-theme .owl-dots{
+	position: absolute;
+	bottom: 10%;
+	left: 47%;
+}
+
+.owl-carousel .owl-nav button.owl-next,
+.owl-carousel .owl-nav button.owl-prev{
+	position: absolute;
+	top: 40%;
+	font-size: 50px;
+	color: white;
+}
+.owl-carousel .owl-nav button.owl-next{
+	right: 5%
+}
+.owl-carousel .owl-nav button.owl-prev{
+	left: 5%
+}
+.img-height{
+	max-height: 500px;
+}
